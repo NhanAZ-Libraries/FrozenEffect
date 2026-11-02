@@ -8,7 +8,7 @@ FrozenEffect is a virion for Axolotl-PM plugins. It sends the Bedrock freezing o
 - PHP 8.1 or newer with the Axolotl-PM 5 runtime.
 - A consumer plugin that bundles the virion or loads it through DevTools during development.
 
-Packet checks and PHPStan at maximum level pass against Axolotl-PM 5.0.0 and 5.49.1 source revisions. Intermediate 5.x releases and the visual result on a Bedrock client have not been tested.
+Packet checks and PHPStan at maximum level pass against Axolotl-PM 5.0.0 and 5.51.1 source revisions. Intermediate 5.x releases and the visual result on a Bedrock client have not been tested.
 
 ## Add FrozenEffect to a plugin
 
