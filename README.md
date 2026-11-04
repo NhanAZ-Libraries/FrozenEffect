@@ -1,6 +1,15 @@
 # FrozenEffect
 
-FrozenEffect is a virion for Axolotl-PM plugins. It sends the Bedrock freezing overlay strength to one player through a `SetActorDataPacket`. It does not run as a standalone plugin.
+Send player freezing overlay packets from Axolotl-PM plugins
+
+[![CI](https://github.com/NhanAZ-Plugins/FrozenEffect/actions/workflows/validate.yml/badge.svg)](https://github.com/NhanAZ-Plugins/FrozenEffect/actions/workflows/validate.yml)
+[![Latest release](https://img.shields.io/github/v/release/NhanAZ-Plugins/FrozenEffect)](https://github.com/NhanAZ-Plugins/FrozenEffect/releases/latest)
+[![License](https://img.shields.io/github/license/NhanAZ-Plugins/FrozenEffect)](https://github.com/NhanAZ-Plugins/FrozenEffect/blob/master/LICENSE)
+[![Discord](https://img.shields.io/discord/986553214889517088?label=Discord&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/j2X83ujT6c)
+
+## Overview
+
+This plugin targets the PocketMine-MP and Axolotl-PM API 5 ecosystem and is maintained under [NhanAZ-Plugins](https://github.com/NhanAZ-Plugins).
 
 ## Requirements and compatibility
 
