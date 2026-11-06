@@ -64,7 +64,7 @@ jobs:
 
       - name: Build consumer PHAR with pinned DevTools
         id: build
-        uses: NhanAZ/DevTools@v2
+        uses: AxolotlBucketLabs/DevTools@v3
         with:
           project: tests/consumer
           virions: tests/consumer/virions

@@ -26,7 +26,7 @@ virions:
     version: ^2.0.0
 ```
 
-Use [DevTools](https://github.com/NhanAZ/DevTools) to build the consumer PHAR. The build includes a private copy of this virion and its MIT license. During source development, DevTools can load the same local virion into a folder plugin. Keep the consumer's virion revision fixed for reproducible builds.
+Use [DevTools](https://github.com/AxolotlBucketLabs/DevTools) to build the consumer PHAR. The build includes a private copy of this virion and its MIT license. During source development, DevTools can load the same local virion into a folder plugin. Keep the consumer's virion revision fixed for reproducible builds.
 
 ## API
 
