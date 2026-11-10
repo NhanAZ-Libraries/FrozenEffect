@@ -62,9 +62,9 @@ jobs:
           cp virion.yml LICENSE tests/consumer/virions/FrozenEffect/
           cp -R src tests/consumer/virions/FrozenEffect/
 
-      - name: Build consumer PHAR with pinned DevTools
+      - name: Build consumer PHAR with latest DevTools
         id: build
-        uses: AxolotlBucketLabs/DevTools@v3
+        uses: AxolotlBucketLabs/DevTools@latest
         with:
           project: tests/consumer
           virions: tests/consumer/virions
